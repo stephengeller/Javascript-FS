@@ -12,3 +12,4 @@ fizzbuzz = function(n) {
 
 for(var i=0; i < 100; i++) {console.log(fizzbuzz(i))}
 
+//
